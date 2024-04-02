@@ -1,0 +1,150 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Msiska",
+      "request": "launch",
+      "mainClass": "Msiska",
+      "projectName": "Code When am bored_45db8792"
+    },
+    {
+      "type": "java",
+      "name": "Touse",
+      "request": "launch",
+      "mainClass": "Touse",
+      "projectName": "Code When am bored_45db8792"
+    },
+    {
+      "type": "java",
+      "name": "Zoyesa",
+      "request": "launch",
+      "mainClass": "Zoyesa",
+      "projectName": "Code When am bored_45db8792"
+    },
+    {
+      "type": "java",
+      "name": "Patterns",
+      "request": "launch",
+      "mainClass": "Patterns",
+      "projectName": "Code When am bored_45db8792"
+    },
+    {
+      "type": "java",
+      "name": "Cpy",
+      "request": "launch",
+      "mainClass": "Cpy",
+      "projectName": "Code When am bored_45db8792"
+    },
+    {
+      "type": "java",
+      "name": "ReadComplexFile",
+      "request": "launch",
+      "mainClass": "ReadComplexFile",
+      "projectName": "Code When am bored_45db8792"
+    },
+    {
+      "type": "java",
+      "name": "Matrix",
+      "request": "launch",
+      "mainClass": "Matrix",
+      "projectName": "Code When am bored_45db8792"
+    },
+    {
+      "type": "java",
+      "name": "Multiplication",
+      "request": "launch",
+      "mainClass": "Multiplication",
+      "projectName": "Code When am bored_45db8792"
+    },
+    {
+      "type": "java",
+      "name": "Converter",
+      "request": "launch",
+      "mainClass": "Converter",
+      "projectName": "Code When am bored_45db8792"
+    },
+    {
+      "type": "java",
+      "name": "BinaryConverter",
+      "request": "launch",
+      "mainClass": "BinaryConverter",
+      "projectName": "Code When am bored_45db8792"
+    },
+    {
+      "type": "java",
+      "name": "TwoDimensions",
+      "request": "launch",
+      "mainClass": "TwoDimensions",
+      "projectName": "Code When am bored_45db8792"
+    },
+    {
+      "type": "java",
+      "name": "Coupon_collector",
+      "request": "launch",
+      "mainClass": "Coupon_collector",
+      "projectName": "Code When am bored_45db8792"
+    },
+    {
+      "type": "java",
+      "name": "Code",
+      "request": "launch",
+      "mainClass": "Code",
+      "projectName": "Code When am bored_45db8792"
+    },
+    {
+      "type": "java",
+      "name": "examples",
+      "request": "launch",
+      "mainClass": "examples",
+      "projectName": "Code When am bored_45db8792"
+    },
+    {
+      "type": "java",
+      "name": "AVERAGE",
+      "request": "launch",
+      "mainClass": "AVERAGE",
+      "projectName": "Code When am bored_45db8792"
+    },
+    {
+      "type": "java",
+      "name": "SimulateShuffling",
+      "request": "launch",
+      "mainClass": "SimulateShuffling",
+      "projectName": "Code When am bored_45db8792"
+    },
+    {
+      "type": "java",
+      "name": "swappArrays",
+      "request": "launch",
+      "mainClass": "swappArrays",
+      "projectName": "Code When am bored_45db8792"
+    },
+    {
+      "type": "java",
+      "name": "DeckOfCards",
+      "request": "launch",
+      "mainClass": "DeckOfCards",
+      "projectName": "Code When am bored_45db8792"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/CODE ROOM/Java Learn/Code When am bored",
+      "program": "d:/CODE ROOM/Java Learn/Code When am bored/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
